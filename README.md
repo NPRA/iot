@@ -21,7 +21,7 @@ Legg inn node.js (dette kan ta sin tid)
 
 ### Last ned VScode
 - Last ned versjon 1.58 av VScode (OBS!! siste versjon vil ikke fungere) her: https://code.visualstudio.com/updates/v1_58 
-  OBS: lenke til nedlastingen ligger under overskriften på siden Download: Windows: User system
+  OBS: lenke til nedlastingen ligger under overskriften på siden Download: Windows: User (trykk på "user")
 - Legg inn VScode.
 - Åpne VScode 
 - Trykk på File->Preferences->settings, søk etter update i søkefeltet øverst. Fjern haken ved "Enable Windows Background Updates" og velg "manuel" eller "none" under "Update: Mode"
