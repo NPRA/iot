@@ -5,6 +5,8 @@
 ### Plugg i antennen i din fypy
 - Den flate antennen med fire gull-fargede "tenner" er LTE antennen, den skal plugges i antennekontakten på "undersiden" av modulen (samme side som sim-kort holderen)
 
+![Fipy antenne](./pics/fipy_antenne.jpg)
+
 ### Sett i sim-kortet
 - Sett i simkortet i sim-holderen på undersiden av modulen. gull-kontaktene på sim-kortet skal peke ned mot modulen, og siden med det lille hakket i kortet skal settes inn først.
 
