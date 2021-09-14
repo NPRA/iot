@@ -40,3 +40,6 @@ Legg inn node.js (dette kan ta sin tid)
 - det skal også dukke opp tre >-tegn (>>>) i terminal-vinduet på bunnen.
 - hvis du trykker til høyre for de tre >-tegnene og skriver pycom.heartbeat(False) og trykker enter så skal lyset på toppen av Fypy-en slutte å blinke blått.
 - Gratulerer, du har nå fått satt opp miljøet slik at du kan programmere modulen din.
+
+![image](https://user-images.githubusercontent.com/4352037/133255267-adaf5bd5-54b8-4ca3-ae4c-5bd76e2746cc.png)
+
